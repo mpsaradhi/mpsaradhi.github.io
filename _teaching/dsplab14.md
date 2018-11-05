@@ -1,7 +1,7 @@
 ---
 title: "Digital Signal Processing Lab"
 collection: teaching
-type: "Undergraduate course"
+type: "Lab associated with undergraduate DSP course"
 permalink: /teaching/dsplab14
 venue: "ECE304"
 date: 2014-01-01
@@ -9,3 +9,4 @@ location: "VVIT"
 ---
 
 
+Check out lab site (old)
