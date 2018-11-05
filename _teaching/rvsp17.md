@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/rvsp17
 venue: "ECE302"
-date: 2017
+date: 2017-06-08
 location: "VVIT"
 ---
 
