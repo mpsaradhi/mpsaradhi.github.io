@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "mps"
-  avatar           : "https://github.com/mpsaradhi/mpsaradhi.github.io/blob/master/images/GoogleCodelab_20181026_112134.jpg"
+  avatar           : "GoogleCodelab_20181026_112134.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
