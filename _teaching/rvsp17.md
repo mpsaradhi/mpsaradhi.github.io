@@ -8,9 +8,7 @@ date: 2017-06-08
 location: "VVIT"
 ---
 
-OBJECTIVES:
-
-To give students an introduction to elementary probability theory, in preparation for courses on statistical
+OBJECTIVES:To give students an introduction to elementary probability theory, in preparation for courses on statistical
 analysis, random variables and stochastic processes.
 To mathematically model the random phenomena with the help of probability theory concepts.
 To introduce the important concepts of random variables and stochastic processes.
