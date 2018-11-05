@@ -9,4 +9,4 @@ location: "VVIT"
 ---
 
 
-Check out lab site (old)
+Check out [old lab site](https://sites.google.com/site/vvitdsp14/materials/labs) 
