@@ -13,7 +13,6 @@ location: "VVIT"
 
 
 
-
 Check out [old lab site](https://sites.google.com/site/vvitdsp14/materials/labs) 
 
 
