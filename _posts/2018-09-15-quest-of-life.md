@@ -16,7 +16,7 @@ Curiosity drives our quest to learn new things and keeps us at peace. Student ag
 
 More elaborately “What is this universe? Where it came from? Who created it? What is the purpose of life? Who am I? What is the purpose of my existence?” As the questions range from ‘Universe (macro – materialistic form of life which includes everything that we could perceive)’ to the ‘I (micro – non materialistic form of life, an individual)’, unaware of how and where to dig for answers, one would turn to religions, philosophers, scientists, technologists and so on. This article is the summary of discourses I happened to learn from one of my scholarly  friend who read a lot.
 
-Quest of Life
+### Quest of Life
 
 Philosophers are the seekers of wisdom whereas scientists are the seekers of evidence (materialistic) bestowing that wisdom. Religions, philosophies, science and technology, all of them study both macrocosm and microcosm. Even though microcosm is introduced ages ago by Kanada maharshi (కణాద  మహర్షి), a propound philosopher of our nation, its progress is meagre in a more scientific way due to the lack of scientific tools to prove it.  Almost all scientists and researchers up to 18th century concentrated on macrocosm, but with the development of technology some of them started doing research on microcosm also.
 
