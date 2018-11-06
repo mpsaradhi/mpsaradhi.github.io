@@ -15,7 +15,7 @@ Corequisite: Analog Communications
 ### Materials 
 
 | Date      | Experiment                           | Hardware  | Simulink | Matlab Comm. Tool box | RTL-SDR |
-|:---------:|:-------:                            ||:-------: ||:-------: |:--------:|
+|:---------:|:-------                            ||:-------: ||:-------: |:--------:|
 |           | Amplitude Modulation: Mod & Demod    |           |          |         |
 |           | DSB-SC: Mod & Demod    |           |          |         |
 |           | Spectrum Analysis of Modulated signal using spectrum analyzer |           |          |        |
