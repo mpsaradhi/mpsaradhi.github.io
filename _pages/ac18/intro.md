@@ -4,8 +4,8 @@ title: "Brief Introduction with a block diagram of a typical communication syste
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/ac18/"
+  - "/intro.html"
 ---
 
 A typical communication system starts with the concept of a source of information, which outputs that information of interest which you want to send somewhere. Typically, this information will first have to be converted into electrical form through appropriate transducer. This source of information after its electrical conversion is given to a system, some equipment, which at the moment; we will simply call a transmitter. And the job of the transmitter is to prepare this information for actually sending through some physical medium through which the propagation of the information has to take place.
