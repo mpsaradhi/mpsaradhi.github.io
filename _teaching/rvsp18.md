@@ -2,11 +2,13 @@
 title: "Random Variables and Stochastic Processes"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/rvsp17
+permalink: /teaching/rvsp18
 venue: "ECE302"
 date: 2018-06-08
 location: "VVIT"
 ---
+
+Check out [old lab site](https://sites.google.com/site/rvspvvit/) 
 
 OBJECTIVES: To give students an introduction to elementary probability theory, in preparation for courses on statistical analysis, random variables and stochastic processes.
 To mathematically model the random phenomena with the help of probability theory concepts.
@@ -24,7 +26,7 @@ Analyze the LTI systems with random inputs.
 Apply these techniques to analyze the systems in the presence of different types of noise.
 
 
-Check out [old lab site](https://sites.google.com/site/rvspvvit/) 
+
 
 
 
