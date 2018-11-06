@@ -40,4 +40,4 @@ Not to despair, instead of allowing others tools to guide us, one should turn th
 
 ##### References 
 
-Hardbound copies of all the books mentioned in this article and many more are available at Saraswata Niketanam [wiki](https://en.wikipedia.org/wiki/Saraswata_Niketanam), [youtube](https://www.youtube.com/watch?v=jAox1PMl03M) Library located in Vetapalem (near Chirala) which was visited by my friend very often for 6 months in the year 2012.
+Hardbound copies of all the books mentioned in this article and many more are available at Saraswata Niketanam ([wiki](https://en.wikipedia.org/wiki/Saraswata_Niketanam), [youtube](https://www.youtube.com/watch?v=jAox1PMl03M)) Library located in Vetapalem (near Chirala) which was visited by my friend very often for 6 months in the year 2012.
