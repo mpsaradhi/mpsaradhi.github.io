@@ -8,7 +8,7 @@ date: 2018-06-08
 location: "VVIT"
 ---
 
-Check out [old lab site](https://sites.google.com/site/rvspvvit/) 
+Check out [old site](https://sites.google.com/site/rvspvvit/) 
 
 OBJECTIVES: To give students an introduction to elementary probability theory, in preparation for courses on statistical analysis, random variables and stochastic processes.
 To mathematically model the random phenomena with the help of probability theory concepts.
