@@ -1,6 +1,6 @@
 ---
 title: 'Golden Circle'
-date: 2012-08-14
+date: 2018-08-14
 permalink: /posts/2018/08/2018-08-14-golden-circle/
 tags:
   - cool posts
