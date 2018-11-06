@@ -1,7 +1,7 @@
 ---
 title: 'Truth is a pathless land'
 date: 2018-08-14
-permalink: /posts/2018/08/blog-post-1/
+permalink: /posts/2018/08/Truth-is-a-pathless-land/
 tags:
   - cool posts
   - category1
