@@ -8,4 +8,13 @@ date: 2018-11-19
 location: "VVIT"
 ---
 
+Laboratory experiments demonstrating material taught in Analog Comminication course. Use is made of spectrum analysis to study baseband signals and Software Defined Radio (RTL-SDR) . Topics include AM, FM, PM, sampling, pre-emphasis & de-emphasis, Pulse modulation & demodulation, PLL, receiver characteristics and complete communication systems.
+Corequisite: Analog Communications
+
+
+### Materials 
+
+| Date      | Experiment                           | Hardware  | Simulink | Matlab Comm. Tool box |
+|:---------:|:-------:                            ||:-------: ||:-------: |--------:|
+|           | Amplitude Modulation: Mod & Demod    |           |          |         |
 
