@@ -15,6 +15,15 @@ Corequisite: Analog Communications
 ### Materials 
 
 | Date      | Experiment                           | Hardware  | Simulink | Matlab Comm. Tool box |
-|:---------:|:-------:                            ||:-------: ||:-------: |--------:|
+|:---------:|:-------:                            ||:-------: ||:-------: |:--------:|
 |           | Amplitude Modulation: Mod & Demod    |           |          |         |
-
+|           | DSB-SC: Mod & Demod    |           |          |         |
+|           | Spectrum Analysis of Modulated signal using spectrum analyzer |           |          |        |
+|           | Diode detector    |           |          |         |
+|           | Pre-emphasis & De-emphasis  |           |          |         |
+|           | FM - Mod & Demod  |               |               |               |               |
+|           | AGC circuits  |               |               |               |               |
+|           | Sampling theorem  |               |               |               |               |
+|           | Pulse Modulation  |               |               |               |               |
+|           | PLL  |               |               |               |               |
+|           | Radio receiver characteristics  |               |               |               |            |
