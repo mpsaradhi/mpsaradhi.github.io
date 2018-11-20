@@ -8,7 +8,6 @@ redirect_from:
   - "/intro.html"
 ---
 
-<script async src="//jsfiddle.net/cZxey/75/embed/"></script>
 A typical communication system starts with the concept of a source of information, which outputs that information of interest which you want to send somewhere. Typically, this information will first have to be converted into electrical form through appropriate transducer. This source of information after its electrical conversion is given to a system, some equipment, which at the moment; we will simply call a transmitter. And the job of the transmitter is to prepare this information for actually sending through some physical medium through which the propagation of the information has to take place.
 
 > So, in a sense the transmitter matches the characteristics of the signal which is coming from the information source to the characteristics of the medium, through which the information has to be transmitted so that, efficient transmission is possible.
