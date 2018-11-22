@@ -4,8 +4,8 @@ title: "Frequency Modulation Demonstration"
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
-  - "/intro/"
-  - "/intro.html"
+  - "/fm-demo/"
+  - "/fm-demo.html"
 ---
 
 <script async src="//jsfiddle.net/cZxey/75/embed/result/"></script>
